@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 24, 2017, 12:12:19 AM
+    Author     : Omar Faheem
+*/
+
+
+.root{
+    
+    -fx-background-color: #ffffff;
+}
+
+.jfxbutton{
+    
+
+    -fx-background-color: #7DFF17;
+    -fx-effect:dropshadow(one-pass-box,black,8,0.0,2,0);
+     
+} 
+.jfxbutton-add{
+    -fx-background-color: #2EBD91;
+    -fx-effect:dropshadow(one-pass-box,black,8,0.0,2,0);
+}
+    
